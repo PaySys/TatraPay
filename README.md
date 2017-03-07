@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/PaySys/TatraPay.svg?branch=master)](https://travis-ci.org/PaySys/TatraPay)
 [![Code Quality](https://scrutinizer-ci.com/g/PaySys/TatraPay/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/PaySys/TatraPay/)
 [![Code Coverage](https://scrutinizer-ci.com/g/PaySys/TatraPay/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/PaySys/TatraPay/)
-[![Packagist](https://img.shields.io/packagist/v/PaySys/TatraPay.svg)](https://packagist.org/packages/PaySys/TatraPay)
+[![Packagist](https://img.shields.io/packagist/v/PaySys/tatrapay.svg)](https://packagist.org/packages/PaySys/TatraPay)
 ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Library for implement TatraPay gateway ([v4.0 with HMAC & ECDSA](http://www.tatrabanka.sk/tatrapay/TatraPay_technicka_prirucka_HMAC.pdf)) from Tatra Banka in Nette framework.
